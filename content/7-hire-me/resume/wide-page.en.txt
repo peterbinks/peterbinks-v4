@@ -1,0 +1,68 @@
+Title: Resumé
+
+----
+
+Text: 
+
+(columns...)
+###Designer/Developer
+
+Chicago-area
+
+Email: peter@peterbinks.net
+Phone: 224-425-8575
+
+(link:http://twitter.com/peterbinks text: Twitter)
+(link:http://dribbble.com/peterbinks text: Dribbble)
+(link:http://linkedin.com/in/peterbinkowski text: LinkedIn)
+(link:http://behance.net/peterbinks text: Behance)
+(link:http://github.com/peterbinks text: GitHub)
+
+
+###Skills:
+- HTML5
+- CSS3
+- SASS
+- Javascript (jQuery)
+- Responsive Design
+- Photoshop
+- Illustrator
+- PHP
+- Git / GitHub
+- MS Office
+- Google Docs
+
+###Languages:
+
+- English
+- Polish
+
+###(link:https://www.dropbox.com/s/240drl23ekbu9q9/resume.pdf?dl=0 text:Download My Resumé )
+++++
+
+Hi there! I’m designer with 4 years of experience in Web, UX, and Brand design. I love distilling complex problems to their simplest forms, and designing frameworks and templates that are reusable and scalable.
+
+##Experience
+**Designer | Front End Developer @ Freelance **
+*January 2010 – Present*
+Building websites for small to medium businesses around Chicago.
+
+**Computer Clerk @ Schiller Park Public Library **
+*April 2012 – Present *
+Assist patrons in the computer lab. Teach computer classes covering basic computer usage to setting up basic websites. Also Maintained current website while designing and developing a new site.
+
+**Front End Developer  @ Olive Street Design**
+*Nov 2013 – March 2014 (contractor)*
+Build out websites based on client needs and mockups given to me by the design team.
+
+##Education
+**Triton College:**
+*2010 - 2012; 2015(spring)*
+- Associates in Arts
+
+**University of Illinois Chicago:**
+*Fall 2009*
+
+(link:http://teamtreehouse.com/peterbinkowski text:**Treehouse Profile**)
+
+(...columns)

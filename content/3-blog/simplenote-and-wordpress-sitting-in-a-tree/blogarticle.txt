@@ -1,0 +1,25 @@
+title: Simplenote and Wordpress sitting in a tree.
+
+----
+
+date: 2013-01-25 
+
+----
+
+text: 
+
+Simplenote has been acquired by Automattic, the company behind Wordpress.com and a bunch of open source awesomeness.
+
+
+  In joining Automattic, we’re working with more resources and a growing, complementary team. Our plan is to supercharge Simplenote with a lot more attention in the months and years to come: native apps for more platforms, ongoing improvements, and more work on Simperium, our service for keeping your data in sync. Of course, Simplenote will stay simple. We know how important that is to you. It’s what kept it in the top apps of 2012, and it’s important to the team here as well.
+
+
+I'm super excited for what this will mean for Wordpress and Simplenote.
+
+----
+
+tags: 
+
+----
+
+categories: 

@@ -1,0 +1,31 @@
+Title: About
+
+----
+
+Text: 
+
+(image: 901963_10202245590758310_1328561611_o.jpg alt: peter binkowski  title: Photo cred to my good friend Ann Marie   )
+
+##About Peter
+Peter Binkowski is a web designer living in Chicago. He runs a small design studio that works with small business's, startups, and non-profits. 
+
+He enjoys a well brewed cup of coffee, rainy days, and is a strong supporter of the oxford comma.  When not behind a screen you can find him with his nose in a (link: /reading text: book), exploring the outdoors, or spending quality time with his drum set.
+
+You can take a look at my (link: http://peterbinks.net/hire-me/resume text: résumé) if that's your sort of thing. 
+
+
+This GIF generally describes me on any given day:
+
+(image: https://dl.dropboxusercontent.com/u/17006038/Gifs/tumblr_inline_mtp652Ebt61row2y8.gif) 
+
+##About The Site
+
+This site is about the hundredth revision of peterbinks.net. I've used half a dozen cms's, and put up a bunch of junk over the years. I've outlined the (link: /purpose text: purpose) of this site to be basically somewhere I can tinker with code, and collect my thoughts. Let's hope it stays that way.
+
+This iteration of the site is built on (link: http://getkirby.com text: Kirby), which I've found delightful and a good balance between static site generators and full blown database CMS's. I wrote the code behind the pixels in (link: http://sumblimetext.com text: Sublime Text). The Typefaces you see are (link: https://typekit.com/fonts/freight-sans-pro text: Freight Sans) and (link: https://typekit.com/fonts/ff-tisa-web-pro text: FF Tisa Pro). Might change those.
+
+##Purpose
+
+The purpose of this site has been wide and varied. There are two main purposes for it's existence though. First, it's been my playground in learning web design and development. If there's something new out there, I'll usually play around with it here first.
+
+And second, a place to put my thoughts. I've never been a particularly consistent writer. I would start up a blog, and abandon it just a few months, or weeks later. However, I will try to keep this place as a repository of my writing. We'll see what happens.

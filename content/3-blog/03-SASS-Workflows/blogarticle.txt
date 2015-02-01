@@ -1,0 +1,13 @@
+﻿Title: SASS Workflows
+
+----
+
+Text: A lot has been written about SASS workflows. But I've never found something that works for my situations, which I thought a lot more people would relate to.
+
+As a freelancer, I frequently just set up a sub folder on my FTP server to develop on. The biggest advantage of this is that I can collaborate with my clients in real-time. They see what I see. And, since the development team is just me, I don't use testing servers, development environments, all that. I used to start off my projects locally and use MAMP, but when I want to update the client on my progress, what to do? The most straight forward thing is toss the site to a live server. 
+
+SASS has been difficult to implement into my workflow. Working locally with it is a dream, but editing CSS files that are on a server just gets way to complicated way to fast. I've read a bunch of articles and looked through a lot of documentations, but I just recently found a way to do this simply and easily.
+
+I just found (link: http://blog.rainbird.me/post/41730281659/using-sass-with-codekit-transmit-remote-stylesheets text: this post) by (link: https://twitter.com/rainerbird text: William Rainbird). Basically you can mount any FTP server to your computer, using (link: http://panic.com/transmit text: Transmit), and then use sass installed on your computer to watch the files on the server and automatically update the CSS. This is my key to using SASS full time. 
+
+Now one of these days I might start using Compass, and Bourbon, and everything else I'm supposed to use as a front-end dev.

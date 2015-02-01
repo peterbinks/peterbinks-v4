@@ -1,0 +1,16 @@
+Title: Christian Worship Center
+
+----
+
+Text: 
+
+<p>CWC came to me because they were frustrated with how their website was not easy to update, and was horrible to use on mobile devices. Their focus was to have something that would work well on mobile, and be easy to update. I was responsible for everything about the site, focusing on the responsive design, and optimize the Wordpress installation to be easy to maintain.</p>
+<h4> <a href="http://cwclife.com">Visit The Site</a></h4>
+
+----
+
+Url: http://cwclife.com
+
+----
+
+Tags: Web,Design

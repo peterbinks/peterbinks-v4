@@ -1,0 +1,17 @@
+Title: Chick Fil A
+
+----
+
+Text: 
+
+<p>The Chicagoland Chick-fil-A stores came to my friend and I to design a site where they can coordinate marketing efforts, and have general information on their stores. I was responsible for the front-end coding and parts of the design.</p>
+
+<h4><a href="http://chicagocfa.com"> Visit The Site</a></h4>
+
+----
+
+Url: http://chicagocfa.com
+
+----
+
+Tags: Web,Design

@@ -1,0 +1,44 @@
+Title: Quotes
+
+----
+
+Text: <h1>Quotes</h1>
+
+<blockquote>Never half ass two things. Whole ass one thing.<br>
+— 	(link: http://www.youtube.com/watch?v=zl-HalherjQ text: Ron Swanson)</blockquote>  
+
+<blockquote>Everything Happens So Much <br>
+— 	(link: https://twitter.com/Horse_ebooks/status/218439593240956928 text: Horse Ebooks)</blockquote>
+
+<blockquote>Attract them by the way you live.
+<br>— 	Saint Augustine</blockquote>
+
+<blockquote>They can't eat you.
+<br>— 	(link: https://www.youtube.com/watch?v=Lk0hSeQ5s_k text: Merlin Mann)</blockquote>
+
+<blockquote>
+I don’t want to be a sweetheart. I want to be the fucking love of your life.<br>
+— 	Chimamanda Ngozi Adichie, Americanah
+</blockquote>
+
+<blockquote> I'm doing stuff, Lori, things. <br>— 	(link: http://www.youtube.com/watch?v=8f6CdZKAk2U text: Rick Grimes)</blockquote>
+
+<blockquote>
+And all at once, I knew, I was not magnificent. <br>
+— 	Bon Iver (Holocene)
+</blockquote>
+
+<blockquote>
+Jesus is greater than I have ever portrayed him to be.<br>
+— 	John Piper
+</blockquote>
+
+<blockquote>
+I wish there was a way to know your in the good ol' days, before you've actually left them.<br>
+— 	Andy Bernard (Narddog) 
+</blockquote>
+
+<blockquote>
+It is the mark of an educated mind to entertain a thought without accepting it.<br>
+— 	Aristotle
+</blockquote>

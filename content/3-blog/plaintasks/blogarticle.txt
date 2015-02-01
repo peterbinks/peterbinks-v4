@@ -1,0 +1,19 @@
+title: PlainTasks 
+
+----
+
+date: 2013-01-25 
+
+----
+
+text: 
+
+Speaking of Sublime Text. This is a great GitHub repo for a plugin that will transform Sublime to task manager.
+
+----
+
+tags: 
+
+----
+
+categories: 

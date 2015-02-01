@@ -1,0 +1,54 @@
+Title: Hire Me
+
+----
+
+Text: 
+
+#Hire Peter
+
+Hi There, I’m Peter. I’m a designer and front-end developer based in Chicago, Il. I'm here to help you communicate more effectively with your customers and users, and help set your brand apart. So, if you’re ready to make your dreams and visions into a reality, get in touch. I specialize in web design, front-end development, and branding so all of your design needs can be met. You can take a look at my (link: http://peterbinks.net/hire-me/resume text: résumé) if that's your sort of thing. 
+
+****
+
+##What I Can Do For You
+
+###Web Design & Development
+
+You need an updated look. You need a site that works on phones and tablets. You need something that **_simply_** and **_clearly_** states information about your business. I'm the guy to help you with that. I'll set up a site that is easy to use, update, and maintain yourself (or i can do that for you), and delivers real results in increased traffic and user experience for your customers. 
+
+###Branding & Logo
+
+Your brand is how you communicated to your customers. From the logo it self, to your colors, typography, and tone of voice, are all part of your brand. I'm here to make sure your brand is as effective as possible to communicating the right message to your customers. 
+
+****
+
+##My Process
+
+###1 - Strategy
+
+Before the design process begins, I will collect information about your business and brand so that I can understand your story and make sure we’re on the same page. Together, we will strategize & gather inspiration, which in turn, will reveal how to develop and communicate your message truthfully.
+
+###2 - Design
+
+Taking the information and inspiration we’ve gathered, I will spend time developing solid design concepts for your project. Once the initial designs have been presented, we will work back and forth to help finalize everything and make sure that each part is in line with your vision. 
+
+###3 - Build & Realization
+
+More often than not, client projects are multi-dimensional. This means that we will take your brand and implement it into various formats to cover your additional needs. Whether it’s a website or other marketing materials, we will consistently build out your brand.
+
+****
+
+##Rates
+Usually I work on a per-project, flat-fee, basis. Typical web project start around $2000 and go up. Typical branding projects start around $1200 and go up. If you'd like to hire me hourly, my current rate $90/hr.
+
+****
+
+##Legal
+You’ll need to sign my consulting agreement. The language is simple and easy to understand. If you need me to sign an agreement, I’ll be happy to do so.
+
+****
+
+##Get In Touch
+
+T: <a href="tel:+12244258575">+1 224 425 8575</a>
+E:  <a href="mailto:peter@peterbinks.net">peter@peterbinks.net</a>

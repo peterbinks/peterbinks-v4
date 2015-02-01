@@ -1,0 +1,13 @@
+﻿Title: Hello, Again
+
+----
+
+Text: This is my first article. Hopefully just the first of many. I talk about this a little bit in (link: /about text: /about) but I've had many a blog, in fact I've written variations on this very post on most of them, however I want a place that can be an archive of my writing.
+
+I've used half a dozen different CMS's, I've written in plain text, rich text, html, and markdown. I've gone through 3 or 4 different writing apps. I'm always *fiddling*. And I need a place that in addition to fiddling, I can also collect and express my thoughts. So hopefully this will become that place.
+
+I want to be able to have a frictionless space on the internet that is full mine. So that's what this place is. 
+
+(link: http://frankchimero.com text: Frank Chimero), when he recently released a new version of his website, (link: http://frankchimero.com/blog/make-it-homely/ text: talked about) how he wanted his website to feel *homely*. I really like that idea. I want this place to have that lived-in feeling. 
+
+Thanks for reading, and I hope that you enjoy your stay.

@@ -1,0 +1,17 @@
+Title: Schiller Park Public Library
+
+----
+
+Text: 
+
+<p>Working at the Schiller Park Public Library as the computer clerk, part of my responsibility was the update the current website. However, seeing that it was made more than a decade ago, and updating required delving into piles of unorganized code, I was started making a whole new site. I was responsible for everything from the design to development, to information architecture. Built on Wordpress, I focused on making it as useful as possible to our current patrons, as well as making it easy for anyone to update.</p>
+
+<h4> <a href="http://schillerparklibrary.org">Visit The Site</a> </h4>
+
+----
+
+Url: http://schillerparklibrary.org
+
+----
+
+Tags: Web,Design

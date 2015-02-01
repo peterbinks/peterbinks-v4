@@ -1,0 +1,50 @@
+title: Peter's Guide to Using a Computer
+
+----
+
+date: 2012-06-06 
+
+----
+
+text: 
+
+Software:
+
+
+Use as little software as possible.
+Use software that does one thing well.
+Do not use software that does many things poorly.
+Use a plain text editor.  Not a word processor (word), a plain text editor.
+Do not use your text editor for tasks other than editing text.
+Do not use software that’s unmaintained.
+Pay for software/service that are worth paying for. 
+Thoroughly delete all traces of software that you no longer use.
+
+
+Hardware:
+
+
+Do not buy a desktop computer unless your daily computing needs include video/audio editing, 3D rendering, or some other hugely processor-intensive computing task.  Buy a portable computer instead.
+Use a Macbook Air for personal computing. 
+Only get a Macbook Pro if you know you need it, if you're unsure, MBA.
+Do not use anything other than a Mac at home. 
+If you use your computer for your career, then buy as large an external monitor you can afford.
+
+
+File Formats:
+
+
+Keep as much as possible in plain text. Not Word or Pages documents, plain text.
+For tasks that plain text doesn’t fit, store documents in an open standard file format if possible.
+Do not buy digital media crippled by DRM technologies unless your intention is to rent the content for a limited period of time.
+
+
+This is my verison of al3x's rules for computing happiness. Check out his version for a little more detail.
+
+----
+
+tags: 
+
+----
+
+categories: 

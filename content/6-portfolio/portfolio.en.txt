@@ -1,0 +1,5 @@
+Title: Portfolio
+
+----
+
+Text: You can take a look at my (link: http://peterbinks.net/hire-me/resume text: résumé) if that's your sort of thing.

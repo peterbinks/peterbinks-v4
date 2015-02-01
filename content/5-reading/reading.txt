@@ -1,0 +1,22 @@
+Title: Reading
+
+----
+
+Text: <h1>The Books On My Nightstand</h1>
+
+<ul class="readinglist">
+<li>
+<h2><a href=http://www.abookapart.com/products/youre-my-favorite-client">You're My Favourite Client</a></h2>(img: biymlt2ciaasm-6.png class: pull-left book-cover height: 300 )<p> I've been excited about this follow up to Mike Montiero's first book, <a href="http://www.abookapart.com/products/design-is-a-job">Design Is A Job</a>, from when I heard he was writing it. Design Is A Job gave me a whole new outlook on my profession as a freelance designer, and I'm sure this one will be similarly poignant.</p>
+
+</li>
+<li>
+<h2><a href="http://www.abookapart.com/products/on-web-typography">On Web Typography</a></h2>
+(img: 2014-09-11-on-web-typography-cover.jpg height: 300 class: pull-left book-cover)<p> I love everything typography. If i was more skilled, I'd probably a typographer. As it is, this is an excellent resource for typography in general as well as specifically for the web.</p>
+
+</li>
+<li>
+<h2><a href="http://www.amazon.com/The-Magicians-Land-Novel-Trilogy/dp/0670015679">The Magician's Land</a></h2>
+(img: http://ecx.images-amazon.com/images/I/71%2BJiq31emL.jpg	 height: 300 class: pull-left book-cover)<p>The end of one of the best modern fantasy series. The first book was so captivating, and the main character was so relatable that I read it three time in a week. I have high hope for the climax of the trilogy.</p>
+
+</li>
+</ul>

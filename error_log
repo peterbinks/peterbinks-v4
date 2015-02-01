@@ -1,0 +1,7 @@
+[04-Jun-2014 03:58:30 UTC] PHP Parse error:  syntax error, unexpected $end in /home/thecoars/public_html/peterbinks.net/site/snippets/header.php on line 8
+[04-Jun-2014 04:02:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/thecoars/public_html/peterbinks.net/site/snippets/header.php on line 8
+[09-Oct-2014 02:58:14 Europe/Moscow] PHP Fatal error:  Cannot redeclare class kirbytextExtended in /home/thecoars/public_html/peterbinks.net/site/plugins/kirbytext.extended.php on line 42
+[09-Oct-2014 02:58:15 Europe/Moscow] PHP Fatal error:  Cannot redeclare class kirbytextExtended in /home/thecoars/public_html/peterbinks.net/site/plugins/kirbytext.extended.php on line 42
+[09-Oct-2014 02:58:16 Europe/Moscow] PHP Fatal error:  Cannot redeclare class kirbytextExtended in /home/thecoars/public_html/peterbinks.net/site/plugins/kirbytext.extended.php on line 42
+[09-Oct-2014 02:58:52 Europe/Moscow] PHP Fatal error:  Cannot redeclare class kirbytextExtended in /home/thecoars/public_html/peterbinks.net/site/plugins/kirbytext.extended.php on line 42
+[09-Oct-2014 02:58:53 Europe/Moscow] PHP Fatal error:  Cannot redeclare class kirbytextExtended in /home/thecoars/public_html/peterbinks.net/site/plugins/kirbytext.extended.php on line 42

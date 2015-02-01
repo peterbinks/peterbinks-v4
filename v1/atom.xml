@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Peter Binks</title>
+ <link href="http://peterbinks.net/atom.xml" rel="self"/>
+ <link href="http://peterbinks.net/"/>
+ <updated>2012-07-07T18:12:19-05:00</updated>
+ <id>http://peterbinks.net/</id>
+ <author>
+   <name>Treep</name>
+   <email>peter.binkowski@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Peter's Guide to Using a Computer</title>
+   <link href="http://peterbinks.net//2012/06/05/Peter%27s-Guide-to-Using-a-Computer/"/>
+   <updated>2012-06-05T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2012/06/05/Peter's-Guide-to-Using-a-Computer</id>
+   <content type="html">&lt;h5 id='peters_guide_to_using_a_computer'&gt;Peter&amp;#8217;s Guide to Using a Computer&lt;/h5&gt;
+
+&lt;h6 id='software'&gt;Software:&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Use as little software as possible.&lt;/li&gt;
+
+&lt;li&gt;Use software that does one thing well.&lt;/li&gt;
+
+&lt;li&gt;Do not use software that does many things poorly.&lt;/li&gt;
+
+&lt;li&gt;Use a plain text editor.  Not a word processor (word), a plain text editor.&lt;/li&gt;
+
+&lt;li&gt;Do not use your text editor for tasks other than editing text.&lt;/li&gt;
+
+&lt;li&gt;Do not use software that’s unmaintained.&lt;/li&gt;
+
+&lt;li&gt;Pay for software/service that are worth paying for.&lt;/li&gt;
+
+&lt;li&gt;Thoroughly delete all traces of software that you no longer use.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id='hardware'&gt;Hardware:&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Do not buy a desktop computer unless your daily computing needs include video/audio editing, 3D rendering, or some other hugely processor-intensive computing task.  Buy a portable computer instead.&lt;/li&gt;
+
+&lt;li&gt;Use a Macbook Air for personal computing.&lt;/li&gt;
+
+&lt;li&gt;Only get a Macbook Pro if you know you need it, if you&amp;#8217;re unsure, MBA.&lt;/li&gt;
+
+&lt;li&gt;Do not use anything other than a Mac at home.&lt;/li&gt;
+
+&lt;li&gt;If you use your computer for your career, then buy as large an external monitor you can afford.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id='file_formats'&gt;File Formats:&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Keep as much as possible in plain text. Not Word or Pages documents, plain text.&lt;/li&gt;
+
+&lt;li&gt;For tasks that plain text doesn’t fit, store documents in an open standard file format if possible.&lt;/li&gt;
+
+&lt;li&gt;Do not buy digital media crippled by DRM technologies unless your intention is to rent the content for a limited period of time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is my verison of &lt;a href='http://al3x.net/2008/09/08/al3xs-rules-for-computing-happiness.html'&gt;al3x&amp;#8217;s rules for computing happiness&lt;/a&gt;. Check out his version for a little more detail.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Paul Millers First Day Without The Internet</title>
+   <link href="http://peterbinks.net//2012/05/02/Paul-Miller-Leaves-The-Internet/"/>
+   <updated>2012-05-02T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2012/05/02/Paul-Miller-Leaves-The-Internet</id>
+   <content type="html">&lt;h5 id='paul_millers_first_day_without_the_internet'&gt;&lt;a href='http://www.theverge.com/2012/5/2/2994277/paul-miller-diary-offline-day-of-life-without-internet'&gt;Paul Millers First Day Without The Internet&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;Paul Miller of The Verge has left the Internet for a year. Here is the first day.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I think there are two kinds of people who live with technology constantly in their face: people who freak out when they&amp;#8217;re forcefully separated from their devices or connectivity, as if their arm has been cut off, and people who feel really chill when they&amp;#8217;re forcefully separated from their devices or connectivity, as if they&amp;#8217;ve been let out of prison. I&amp;#8217;ve spoken to many of both kinds as I&amp;#8217;ve prepared for leaving the internet, and thankfully I fall in the latter camp.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This sounds really interesting. Sure, there are a bunch of people that think that this is a just a publicity stunt, and stupid, I like the idea and the reason for him doing it.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Home-Sick Redux</title>
+   <link href="http://peterbinks.net//2012/04/19/Home-Sick-Redux/"/>
+   <updated>2012-04-19T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2012/04/19/Home-Sick-Redux</id>
+   <content type="html">&lt;h5 id='homesick_redux'&gt;Home-Sick Redux&lt;/h5&gt;
+
+&lt;p&gt;Why are people so prone to nostalgia? Sometimes we miss things/people/places that don&amp;#8217;t really matter. We try to live our lives the best we can, we try to make meaningful conections, and then we try to keep something for our selves from every experience and every moment.&lt;/p&gt;
+
+&lt;p&gt;By nature we humans are a selfish bunch. Its wasn&amp;#8217;t even two chapters into the Good Book, and we already have man choosing to go down in flames to keep the one thing that God had given him. Adam could have easily said no, he knew what was up, he could smell what Eve was stepping in, but if he refused her he knew she would be cast out and he would stay, without her. He couldn&amp;#8217;t take it. And look where we ended up. Harsh much? Well yeah&amp;#8230; Sorta.&lt;/p&gt;
+
+&lt;p&gt;Ok. Perhaps thats taking the analogy too far.&lt;/p&gt;
+
+&lt;p&gt;But think about it. We constantly try to keep everything around the same, never changing, always permenant, and we fail.&lt;/p&gt;
+
+&lt;p&gt;Over and over.&lt;/p&gt;
+
+&lt;p&gt;Thats when we go to lengths we never would have thought before. But if we just stop to think about it. Is change all that bad? What&amp;#8217;s the worse that can happen? Sometimes, change is the only thing that can save us from our selves.&lt;/p&gt;
+
+&lt;p&gt;And, so, I&amp;#8217;ve realized from my last post that, no, I&amp;#8217;m not really and irrevocably attached to Chicago. Sure, I like it. I love the city, the people, my friends, the atmosphere. But these things don&amp;#8217;t comfort and sustain me.&lt;/p&gt;
+
+&lt;p&gt;So.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Home Sick</title>
+   <link href="http://peterbinks.net//2012/03/08/home-sick/"/>
+   <updated>2012-03-08T00:00:00-06:00</updated>
+   <id>http://peterbinks.net/2012/03/08/home-sick</id>
+   <content type="html">&lt;h5 id='home_sick'&gt;Home Sick&lt;/h5&gt;
+
+&lt;p&gt;There is something that I have noticed in my “home sickness”. I fluctuate wildly between really wanting to go back home and staying here. Specifically I think about certain routines or events back in Chicago; getting some Gene &amp;amp; Judes, biking around, going to J Bean or Starbucks. The people that I know, and the places that I love.&lt;/p&gt;
+
+&lt;p&gt;I wonder however if this is true home-sickness (for lack of a better term) am I really and truly in love with Chicago? Or, am I simply living in the past and liking what I see there.&lt;/p&gt;
+
+&lt;p&gt;Questions without answers. Thats all I have for now. Hopefully I’ll learn more of the difference before I go back in a month.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Paravel gives Typofonderie a facelift</title>
+   <link href="http://peterbinks.net//2012/02/14/paravel-and-typofonderie/"/>
+   <updated>2012-02-14T00:00:00-06:00</updated>
+   <id>http://peterbinks.net/2012/02/14/paravel-and-typofonderie</id>
+   <content type="html">&lt;h5 id='paravel_gives_typofonderie_a_facelift'&gt;Paravel gives Typofonderie a facelift&lt;/h5&gt;
+
+&lt;p&gt;The guys at &lt;a href='http://paravelinc.com'&gt;Paravel&lt;/a&gt; just launched a new site with &lt;a href='http://typofonderie.com/'&gt;Typofonderie&lt;/a&gt;. It&amp;#8217;s beautiful and gorgeous, and the typeface on sale are some of the best on the web. Trent Walton also wrote up a quick post about it. &lt;a href='http://trentwalton.com/2012/02/13/a-new-typofonderie-com/'&gt;Check it&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Galaxy Nexus</title>
+   <link href="http://peterbinks.net//2011/11/17/gnexus/"/>
+   <updated>2011-11-17T00:00:00-06:00</updated>
+   <id>http://peterbinks.net/2011/11/17/gnexus</id>
+   <content type="html">&lt;h5 id='galaxy_nexus'&gt;Galaxy Nexus&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href='http://www.theverge.com/2011/11/17/2568348/galaxy-nexus-review'&gt;Joshua Topolsky&lt;/a&gt; on the new Ice Cream Sandwich Galaxy Nexus&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Since day one, I&amp;#8217;ve been waiting for an Android device that lived up to the promise of such a powerful OS. I think I can stop waiting now.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This looks seriously killer.&lt;/p&gt;
+
+&lt;p&gt;I recently switched back to an iPhone 3g when I dropped my Nexus S on tile, and the display shattered. It was a very sad day. Though I have to say the only advantage, if this review pans out in real life, is the first party apps in IOS. Instapaper, Instagram, Tweetbot, Reeder. These are apps that I really love, even if they perform like crap on my 3g. Android doesn&amp;#8217;t have that. I have to say. Those apps are the &lt;em&gt;only&lt;/em&gt; advantage at this point. Hopefully soon this will change with ICS&lt;/p&gt;
+
+&lt;p&gt;However since I am stuck on T-Mobile for the next year and a half, I would much rather get a phone that can use T-Mobile&amp;#8217;s 3g data speeds. I might try to replace the display of my Nexus or maybe try to score a new one from Best Buy. The 3g is just too slow.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Heinlein Quote</title>
+   <link href="http://peterbinks.net//2011/11/08/heinlein/"/>
+   <updated>2011-11-08T00:00:00-06:00</updated>
+   <id>http://peterbinks.net/2011/11/08/heinlein</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-Robert Heinlein&lt;/p&gt;
+
+&lt;p&gt;via &lt;a href='http://www.middaylatte.com'&gt;Allison House&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Steve</title>
+   <link href="http://peterbinks.net//2011/10/06/Steve/"/>
+   <updated>2011-10-06T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2011/10/06/Steve</id>
+   <content type="html">&lt;h5 id='steve'&gt;Steve&lt;/h5&gt;
+
+&lt;p&gt;It&amp;#8217;s interesting that a man so few had met, and fewer still could claim to have befriended, put this kind of impact on the world. I myself was shocked and greatly saddened to learn of Steve&amp;#8217;s death. I still remember the first time I laid eyes on a apple product, iPod 3rd generation, and how I knew I had to have it. Subsequently, I knew I just HAD to get an apple computer, and even though it took a couple year to get there, I am now typing this on my trusty 08&amp;#8217; MacBook Pro.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#8217;s a list of amazing website tributes to steve from around the internet.&lt;br /&gt;Enjoy.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://apple.com'&gt;Apple.com&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://wired.com'&gt;Wired.com&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://minimalmac.com'&gt;Minimalmac.com&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://boingboing.net'&gt;Boingboing.net&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://panic.com'&gt;Panic.com&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='http://43folders.com'&gt;43folders.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And there are countless blogs with remembrance posts. My favorite came from the &lt;a href='http://www.whitehouse.gov/blog/2011/10/05/president-obama-passing-steve-jobs-he-changed-way-each-us-sees-world'&gt;President&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now lets keep doing amazing stuff.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Fire in the Night</title>
+   <link href="http://peterbinks.net//2011/10/02/fire-in-the-night/"/>
+   <updated>2011-10-02T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2011/10/02/fire-in-the-night</id>
+   <content type="html">&lt;h5 id='fire_in_the_night'&gt;Fire in the Night&lt;/h5&gt;
+
+&lt;h6 id='day_and_night_prayer'&gt;Day and Night Prayer&lt;/h6&gt;
+
+&lt;p&gt;In the Old Testament, King David set up a tent where worship and prayer was offered to the Lord day and night. There are a few more examples through out history of 24/7 prayer and worship, most notably the &lt;a href='http://en.wikipedia.org/wiki/Moravian_Church'&gt;moravians&lt;/a&gt; who had continuous prayer for 100 years.&lt;/p&gt;
+
+&lt;p&gt;I am, for three months, going to be joining the &lt;a href='http://ihop.org'&gt;International House of Prayer&lt;/a&gt; on the nightwatch as a part of the &lt;a href='http://www.ihop.org/ihopu/internships/fire-in-the-night/'&gt;Fire in the Night internship&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h6 id='why'&gt;Why?&lt;/h6&gt;
+
+&lt;p&gt;The main question that arises, even from christians, is &amp;#8220;Why?&amp;#8221;.&lt;br /&gt;You could be going to college (which I already completed two years), or you could be at a job, making money, getting on with your life, etc.&lt;/p&gt;
+
+&lt;p&gt;This is a fair question.&lt;/p&gt;
+
+&lt;p&gt;First, Jesus is worth the time and money. There is no reason not to, and every reason to. I will commit three months of seeking Him from midnight to 6am, and I can&amp;#8217;t think of anything better to do with my time.&lt;/p&gt;
+
+&lt;p&gt;Next fall I plan on finishing University and getting a BFA in Graphic design. However, I have the first half of the year to use in &lt;a href='http://www.biblegateway.com/passage/?search=Isaiah%2062:6&amp;amp;version=ESV'&gt;Standing on the Wall&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you know whats up, and want to help support me by dropping me a few bucks, &lt;a href='http://peterbinks.net/internship'&gt;check this out&lt;/a&gt;&lt;/p&gt;
+
+&lt;h6 id='furthermore'&gt;Furthermore&lt;/h6&gt;
+
+&lt;p&gt;I&amp;#8217;ll probably write a few posts here during the internship about whats going and on my general thoughts. Though they will be interspersed among my other posts about things that interest me. So &lt;a href='http://feeds.feedburner.com/peterbinks'&gt;subscribe&lt;/a&gt; if your into Jesus, coffee, technology, or the plethora of other things that will be coming here.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook by any other name...</title>
+   <link href="http://peterbinks.net//2011/07/07/facebook-by-any-other-name/"/>
+   <updated>2011-07-07T00:00:00-05:00</updated>
+   <id>http://peterbinks.net/2011/07/07/facebook-by-any-other-name</id>
+   <content type="html">&lt;h5 id='facebook_by_any_other_name'&gt;Facebook by any other name&amp;#8230;&lt;/h5&gt;
+
+&lt;p&gt;Google+ has been rolled out for a while now. At first it was only available to the select few. The uber geeks, and the trend setters — journalists — were the first to try it out and &lt;a href='http://techcrunch.com/2011/06/28/google-plus/'&gt;cautiously optimistic&lt;/a&gt; reviews ensued (okay only one review). Then more invites started flooding people&amp;#8217;s inboxes, people got their actual friends on the service to see how it would work in their real social-networking flow.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s obvious that G+ has to sink or swim on its own merits. It seems that G+ caters to very unique subset of users. These users, seem to be more of the tech-obsessed persuasion. And it also seems that G+ has more in-depth discussions that Facebook usually sees (at least from my &amp;#8220;stream&amp;#8221;).&lt;/p&gt;
+
+&lt;p&gt;If you think Facebook is the greatest thing since sliced bread, then you will in all likely hood enjoy Google+, if you dislike Facebook knowing everything about you and being your digital big brother, then you won&amp;#8217;t much like Google+. Probably even less so, seeing to how Google is in the business of collecting your personal information and selling it to advertisers — see &lt;a href='http://brooksreview.net/2011/07/g-plus-privacy/'&gt;Google+ and &amp;#8220;Privacy&amp;#8221;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now that I am on G+, I am finding the UX interesting and delightful. The Circles concept is so much better implemented than Facebook Groups that its a wonder why anyone would use Groups. The privacy settings (with other users) is very clear, and easy to use. And I have to admit that its nice to be on a new frontier where there aren&amp;#8217;t spammers and worse. It is nice to be part of the cutting edge of geekdom, there&amp;#8217;s a sort of &amp;#8220;exclusivity&amp;#8221; to it. Everyone and their grandmothers dog is not on it, and that is one thing that is very compelling to me personally.&lt;/p&gt;
+
+&lt;p&gt;One last thing, as Oliver Reichenstien pointed out, G+ is quickly making Facebook feel like MySpace. There is now way around it, Facebook feels clunkier, there are more things distracting you from the primary purpose - connecting with friends — than ever before. It&amp;#8217;s outdated, and simply not the cool place any more. Will this lead to Facebook&amp;#8217;s demise? I&amp;#8217;m not sure, but I do think that Google+ will soon become as essential to people as Twitter, or Instagram, and in time, it might just take down Goliath.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
